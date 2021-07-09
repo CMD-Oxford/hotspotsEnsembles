@@ -1,0 +1,4 @@
+,clust_id,clust_size,num_points_map,centroid,clust_median,contributing_structures,structure_contributions
+0,donor_1.0,7,12,"[10.28249770825922, 19.338242998886553, 22.681167352792773]",11.28862190246582,"['1wbw_chainA', '1w7h_chainA', '1w84_chainA', '1wbo_chainA', '1bl6_chainA']","[1, 7, 2, 6, 5]"
+1,acceptor_1.0,15,29,"[12.179636383153554, 23.43650918738785, 24.912516385415653]",14.669451713562012,"['1wbw_chainA', '1w7h_chainA', '1w84_chainA', '1wbo_chainA', '1bl6_chainA']","[9, 15, 12, 14, 13]"
+2,apolar_1.0,6173,6701,"[17.458717438251966, 20.016687307149805, 16.852489840418194]",6.874318599700928,"['1wbw_chainA', '1w7h_chainA', '1w84_chainA', '1wbo_chainA', '1bl6_chainA']","[5007, 5506, 5715, 4930, 4662]"
