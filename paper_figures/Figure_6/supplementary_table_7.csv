@@ -1,0 +1,9 @@
+,PDB identifier,Chembl identifier,PDB structures,Smiles
+0,['LF1'],CHEMBL3828191,['5G4R'],['COc1ccccc1C(=O)Nc1cc2c(cc1N1CCNC[C@H]1C)n(C)c(=O)n2C']
+1,['9F9'],CHEMBL1522313,['4UYE'],['COc1ccccc1C(=O)Nc1cc2c(cc1N1CCCCC1)n(C)c(=O)n2C']
+2,['N48'],CHEMBL4096095,['5T4V'],['COc1cc2c(cc1NS(=O)(=O)c1ccc(C#N)cc1)c(C)cc(=O)n2C']
+3,['8LW'],CHEMBL4098824,['5N49'],['Cc1cc2c(cc1N1C(=O)c3cccc4cccc(c34)C1=O)n(C)c(=O)n2C']
+4,['8VI'],CHEMBL3827932,['5G4S'],['CCN(C(=O)c1ccccc1OC)c1cc2c(cc1N1CCNC[C@H]1C)n(C)c(=O)n2C']
+5,['LS8'],CHEMBL3752151,['5MYG'],['COc1cc(C#N)ccc1S(=O)(=O)Nc1ccc2c(c1)cc(C)c(=O)n2C']
+6,['5XE'],CHEMBL3770173,"['5FG4', '5FG6']",['COc1cc2c(cc1NS(=O)(=O)c1ccc(Br)cc1C)n(C)c(=O)n2C']
+7,['5XF'],CHEMBL3356143,['5FG5'],['COc1ccccc1C(=O)Nc1cc2c(cc1N1CCCC1)n(C)c(=O)n2C']
